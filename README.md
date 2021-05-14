@@ -1,1 +1,1 @@
-A simple slider project for learning purposes
+A simple react slider project for learning purposes
